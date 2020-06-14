@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>sepidehdoost.com/markdown/2020/01/14/test-markdown-post.html</loc>
+<loc>https://sepidehdoost.com/sepidehdoost/markdown/2020/01/14/test-markdown-post.html</loc>
 <lastmod>2020-01-14T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>sepidehdoost.com/jupyter/2020/02/20/test.html</loc>
+<loc>https://sepidehdoost.com/sepidehdoost/jupyter/2020/02/20/test.html</loc>
 <lastmod>2020-02-20T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>sepidehdoost.com/jupyter/2020/06/06/text-classification-with-glove-lstm-gru-99-acc.html</loc>
+<loc>https://sepidehdoost.com/sepidehdoost/jupyter/2020/06/06/text-classification-with-glove-lstm-gru-99-acc.html</loc>
 <lastmod>2020-06-06T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>sepidehdoost.com/about/</loc>
+<loc>https://sepidehdoost.com/sepidehdoost/about/</loc>
 </url>
 <url>
-<loc>sepidehdoost.com/</loc>
+<loc>https://sepidehdoost.com/sepidehdoost/</loc>
 </url>
 <url>
-<loc>sepidehdoost.com/search/</loc>
+<loc>https://sepidehdoost.com/sepidehdoost/search/</loc>
 </url>
 <url>
-<loc>sepidehdoost.com/categories/</loc>
+<loc>https://sepidehdoost.com/sepidehdoost/categories/</loc>
 </url>
 </urlset>
