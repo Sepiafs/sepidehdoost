@@ -1,1 +1,1 @@
-Sitemap: sepidehdoost.com/sitemap.xml
+Sitemap: https://sepidehdoost.com/sepidehdoost/sitemap.xml
