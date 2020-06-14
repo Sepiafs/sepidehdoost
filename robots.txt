@@ -1,1 +1,1 @@
-Sitemap: https://sepiafs.github.io/sepidehdoost/sitemap.xml
+Sitemap: sepidehdoost.com/sitemap.xml
