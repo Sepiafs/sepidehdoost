@@ -4,10 +4,6 @@ title: About Me
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+Hi and welcome! I'm Sepideh, and I'm currently an AI and DSP Algorithm Designer in Ericsson Canada. I'm a MSc graduate from Chalmers University of Technology (located in beautiful Göteborg, Sweden), where I majored in Digital Signal Processing and Wireless Communications. 
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+This blog is mainly a place to record and detail my learnings and I'm hoping that would help someone out there. That being said, I'm still a learner and if you have anything to point out, please leave them in the comments! I would love to hear to feedback and ideas. 
